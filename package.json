@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-graphql",
+  "version": "1.0.0",
+  "description": "To explore graphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a8hok/NodeJS-GraphQL.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "GraphQl",
+    "MongoDB",
+    "postgresQL",
+    "sequlaize",
+    "drizzle"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a8hok/NodeJS-GraphQL/issues"
+  },
+  "homepage": "https://github.com/a8hok/NodeJS-GraphQL#readme",
+  "dependencies": {
+    "@apollo/server": "^4.12.0",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "graphql": "^16.11.0"
+  }
+}
